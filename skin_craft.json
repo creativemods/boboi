@@ -300,13 +300,13 @@
   ],
   "Addons":
   [
-{
+    {
       "id":1,
       "nama_add":"",
       "add_url":"https://creativemods.github.io/boboi/addon/addon1.zip",
       "addB_url":"https://creativemods.github.io/boboi/addon/addon1(B).mcpack",
       "addR_url":"https://creativemods.github.io/boboi/addon/addon1(R).mcpack",
-      "view_add":"file:///android_asset/ad1.png",
+      "view_add":"https://creativemods.github.io/boboi/addon/addon1.png",
       "des_add":"https://creativemods.github.io/boboi/adon.html"
     },
     {
@@ -315,7 +315,7 @@
       "add_url":"https://creativemods.github.io/boboi/addon/addon2.zip",
       "addB_url":"https://creativemods.github.io/boboi/addon/addon2(B).mcpack",
       "addR_url":"https://creativemods.github.io/boboi/addon/addon2(R).mcpack",
-      "view_add":"file:///android_asset/ad2.png",
+      "view_add":"https://creativemods.github.io/boboi/addon/addon2.png",
       "des_add":"https://creativemods.github.io/boboi/adon.html"
     }
   ],
@@ -324,8 +324,8 @@
     {
       "id":1,
       "nama_map":"",
-      "map_url":"https://creativemods.github.io/boboi/addon/map/map1.zip",
-      "view_map":"file:///android_asset/map.png",
+      "map_url":"https://creativemods.github.io/boboi/map/map1.zip",
+      "view_map":"https://creativemods.github.io/boboi/map/map.png",
       "des_map":"https://creativemods.github.io/boboi/map.html"
     }
   ]
