@@ -4,7 +4,7 @@
     {
       "status":"0",
       "link":"http://",
-      "pengaturan_iklan":"1",
+      "pengaturan_iklan":"0",
       "admob_open_ads":"ca-app-pub-3940256099942544/1033173712",
       "admob_banner":"ca-app-pub-3940256099942544/6300978111",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
@@ -18,12 +18,7 @@
   ],
   "More":
   [
-    {
-      "id":1,
-      "judul":"suwarni dev",
-      "image":"https://play-lh.googleusercontent.com/qDEyZAHaXNUrl3YL4muIVLy0t-pwU47DqUcn-Pt5pPd2q22r6t0AzShbOYSFDJV6Ewow=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.suwarni.boboiboymcpe"
-    }
+
   ],
   "Skin":
   [
